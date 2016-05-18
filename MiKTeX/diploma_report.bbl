@@ -1,0 +1,247 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{#1}\else\fi
+
+\bibitem{terehov_2003}
+\selectlanguageifdefined{russian}
+\BibEmph{Терехов,~С.~А.} Введение в байесовы
+  сети~/ С.~А.~Терехов~// Научная cессия
+  МИФИ--2003. V Всероссийская
+  научно-техническая Конференция
+  <<Нейроинформатика--2003>>: Лекции по
+  нейроинформатике. Часть~1. ---
+\newblock М.: МИФИ, 2003. ---
+\newblock 188~{с.}
+
+\bibitem{pgm_course}
+\selectlanguageifdefined{english}
+\BibEmph{\mbox{Stanford University}}. Probabilistic Graphical Models
+  [Электронный ресурс]. ---
+\newblock Электронные данные. ---
+\newblock Режим доступа: \url{https://www.coursera.org/course/pgm}.
+  --- Дата доступа: 08.05.2013.
+
+\bibitem{Lam94learningbayesian}
+\selectlanguageifdefined{english}
+\BibEmph{Lam,~Wai}. Learning Bayesian belief networks: An approach based on the
+  MDL principle~/ Wai~Lam, Fahiem~Bacchus~// \BibEmph{Computational
+  Intelligence}. ---
+\newblock 1994. ---
+\newblock Vol.~10. ---
+\newblock Pp.~269--293.
+
+\bibitem{Suzuki93}
+\selectlanguageifdefined{english}
+\BibEmph{Suzuki,~Joe}. A Construction of Bayesian Networks from Databases Based
+  on an MDL Principle~/ Joe~Suzuki~// Proceedings of the Ninth Conference
+  Annual Conference on Uncertainty in Artificial Intelligence (UAI-93). ---
+\newblock San Francisco, CA: Morgan Kaufmann, 1993. ---
+\newblock Pp.~266--273.
+
+\bibitem{Cooper1991}
+\selectlanguageifdefined{english}
+\BibEmph{Cooper,~Gregory~F.} A Bayesian method for constructing Bayesian belief
+  networks from databases~/ Gregory~F.~Cooper, Edward~Herskovits~// Proceedings
+  of the Seventh conference on Uncertainty in Artificial Intelligence. ---
+\newblock UAI'91. ---
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 1991. ---
+\newblock Pp.~86--94. \BibUrl{
+  http://dl.acm.org/citation.cfm?id=2100662.2100674}.
+
+\bibitem{terentyev_2006}
+\selectlanguageifdefined{russian}
+\BibEmph{Терентьев,~А.~Н.} Эвристический метод
+  построения байесовых сетей~/
+  А.~Н.~Терентьев, П.~И.~Бидюк~//
+  \BibEmph{Математические машины и системы}. ---
+\newblock 2006. ---
+\newblock {№}~3.
+
+\bibitem{Chickering96learningbayesian}
+\selectlanguageifdefined{english}
+\BibEmph{Chickering,~David~Maxwell}. Learning Bayesian Networks is NP-Complete.
+  ---
+\newblock 1996.
+
+\bibitem{robinson_1977}
+\selectlanguageifdefined{english}
+\BibEmph{Robinson,~R.~W.} {Counting unlabeled acyclic digraphs}~/
+  R.~W.~Robinson~// Combinatorial Mathematics V~/ Ed. by CharlesH~Little. ---
+\newblock Springer Berlin Heidelberg, 1977. ---
+\newblock Vol.~622 of \BibEmph{Lecture Notes in Mathematics}. ---
+\newblock Pp.~28--43. \BibUrl{ http://dx.doi.org/10.1007/bfb0069178}.
+
+\bibitem{Grunwald05atutorial}
+\selectlanguageifdefined{english}
+\BibEmph{Grünwald,~Peter}. A Tutorial Introduction to the Minimum Description
+  Length Principle~/ Peter~Grünwald~// Advances in Minimum Description Length:
+  Theory and Applications. ---
+\newblock MIT Press, 2005.
+
+\bibitem{Rebane87}
+\selectlanguageifdefined{english}
+\BibEmph{Rebane,~George}. The Recovery of Causal Poly-Trees From Statistical
+  Data~/ George~Rebane, Judea~Pearl~// Uncertainty in Artificial Intelligence 3
+  Annual Conference on Uncertainty in Artificial Intelligence (UAI-87). ---
+\newblock Amsterdam, NL: Elsevier Science, 1987. ---
+\newblock Pp.~175--182.
+
+\bibitem{mcconnell_2005}
+\selectlanguageifdefined{russian}
+\BibEmph{Макконнелл,~С.} Совершенный код.
+  Мастер"=класс / Пер. с англ.~/ С.~Макконнелл.
+  ---
+\newblock СПб.~: Издательско"=торговый дом
+  <<Русская редакция>>, 2005. ---
+\newblock 896~{с.}
+
+\bibitem{ecma_335}
+\selectlanguageifdefined{english}
+Common Language Infrastructure (CLI). Partitions I to VI. ---
+\newblock 2012. --- June. \BibUrl{
+  http://www.ecma-international.org/publications/standards/Ecma-335.htm}.
+
+\bibitem{richter_2007_ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Рихтер,~Джеффри}. CLR via C\#.
+  Программирование на платформе Microsoft .NET
+  Framework 2.0 на языке C\#~/ Джеффри~Рихтер. ---
+\newblock 2-е {изд.} ---
+\newblock СПб.~: Питер, Русская Редакция, 2007. ---
+\newblock 656~{с.}
+
+\bibitem{marchenko_2007}
+\selectlanguageifdefined{russian}
+\BibEmph{Марченко,~А.~Л.} Основы
+  программирования на C\# 2.0~/ А.~Л.~Марченко. ---
+\newblock БИНОМ. Лаборатория знаний,
+  Интернет"=университет информационных
+  технологий "--- ИНТУИТ.ру, 2007. ---
+\newblock 552~{с.}
+
+\bibitem{richter_2012_en}
+\selectlanguageifdefined{english}
+\BibEmph{Richter,~Jeffrey}. CLR via C\#~/ Jeffrey~Richter. Microsoft, Developer
+  Reference. ---
+\newblock 4-th edition. ---
+\newblock One Microsoft Way, Redmond, Washington 98052-6399~: Microsoft Press,
+  2012. ---
+\newblock 896~P.
+
+\bibitem{sicp_2006_ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Абельсон,~Харольд}. Структура и
+  интерпретация компьютерных программ~/
+  Харольд~Абельсон, Джеральд~Джей~Сассман,
+  Джули~Сассман. ---
+\newblock Добросвет, 2006. ---
+\newblock 608~{с.}
+
+\bibitem{albahari_2012_en}
+\selectlanguageifdefined{english}
+\BibEmph{Albahari,~Joseph}. C\# 5.0 in a Nutshell~/ Joseph~Albahari,
+  Ben~Albahari. ---
+\newblock 5-th edition. ---
+\newblock O’Reilly Media, Inc, 2012. --- June. ---
+\newblock 1062~P.
+
+\bibitem{volosevich_cs_2011}
+\selectlanguageifdefined{russian}
+\BibEmph{Волосевич,~А.~А.} Язык C\# и основы
+  платформы .NET: Учебно"=метод. пособие по
+  курсу <<Избранные главы информатики>> для
+  студ. спец. \mbox{I-31~03~04} <<Информатика>> всех
+  форм обуч.~/ А.~А.~Волосевич. ---
+\newblock Минск~, 2006. ---
+\newblock 60~{с.}
+
+\bibitem{csharp_wiki_2013_ru}
+\selectlanguageifdefined{english}
+C Sharp [Электронный ресурс]. ---
+\newblock Электронные данные. ---
+\newblock Режим доступа:
+  \url{http://ru.wikipedia.org/wiki/C\_Sharp}. --- Дата доступа:
+  22.03.2013.
+
+\bibitem{fsdg_2010}
+\selectlanguageifdefined{english}
+\BibEmph{Research,~Microsoft}. Draft F\# Component Design Guidelines. ---
+\newblock 2010. --- April.
+
+\bibitem{Lauritzen_Spiegelhalter88}
+\selectlanguageifdefined{english}
+\BibEmph{Lauritzen,~S.~L.} {Local Computations with Probabilities on Graphical
+  Structures and Their Application to Expert Systems}~/ S.~L.~Lauritzen,
+  D.~J.~Spiegelhalter~// \BibEmph{Journal of the Royal Statistical Society.
+  Series B (Methodological)}. ---
+\newblock 1988. ---
+\newblock Vol.~50, no.~2. \BibUrl{ http://dx.doi.org/10.2307/2345762}.
+
+\bibitem{beinlich1989alarm}
+\selectlanguageifdefined{english}
+{The ALARM Monitoring System: A Case Study with Two Probabilistic Inference
+  Techniques for Belief Networks}~/ I.~A.~Beinlich, H.~J.~Suermondt,
+  R.~M.~Chavez, G.~F.~Cooper~// Second European Conference on Artificial
+  Intelligence in Medicine~/ Ed. by J.~Hunter, J.~Cookson, J.~Wyatt. ---
+\newblock Vol.~38. ---
+\newblock Berlin, Germany: Springer-Verlag, 1989. ---
+\newblock Pp.~247--256.
+
+\bibitem{Chow68approximatingdiscrete}
+\selectlanguageifdefined{english}
+\BibEmph{Chow,~C.~I.} Approximating discrete probability distributions with
+  dependence trees~/ C.~I.~Chow, Sexior~Member, C.~N.~Liu~// \BibEmph{IEEE
+  Transactions on Information Theory}. ---
+\newblock 1968. ---
+\newblock Vol.~14. ---
+\newblock Pp.~462--467.
+
+\bibitem{michnuk_2009}
+\selectlanguageifdefined{russian}
+\BibEmph{Михнюк,~Т.~Ф.} Охрана труда : учебник
+  [утв. МО РБ]~/ Т.~Ф.~Михнюк. ---
+\newblock Минск~: ИВЦ Минфина, 2009. ---
+\newblock 345~{с.}
+
+\bibitem{sinilov_2010}
+\selectlanguageifdefined{russian}
+\BibEmph{Синилов,~В.~Г.} Системы охранной,
+  пожарной и охранно-пожарной сигнализации
+  : учебник для нач. проф. образования~/
+  В.~Г.~Синилов. ---
+\newblock 5-е {изд.} ---
+\newblock М.~: Издательский центр <<Академия>>, 2010.
+  ---
+\newblock 512~{с.}
+
+\bibitem{palicyn_2006}
+\selectlanguageifdefined{russian}
+\BibEmph{Палицын,~В.~А.} Технико-экономическое
+  обоснование дипломных проектов: Метод.
+  пособие для студ. всех спец. БГУИР. В 4-х ч.
+  Ч. 4: Проекты программного обеспечения~/
+  В.~А.~Палицын. ---
+\newblock Минск~: БГУИР, 2006. ---
+\newblock 76~{с.}
+
+\bibitem{belcalendar_2013}
+\selectlanguageifdefined{russian}
+Календарь праздников на 2013 год для
+  Беларуси [Электронный ресурс]. ---
+\newblock Электронные данные. ---
+\newblock Режим доступа: \url{http://calendar.by/2013/\#bkm}. ---
+  Дата доступа: 05.03.2013.
+
+\bibitem{Koller_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Koller,~D.} Probabilistic Graphical Models: Principles and
+  Techniques~/ D.~Koller, N.~Friedman. ---
+\newblock MIT Press, 2009. ---
+\newblock 1270~P.
+
+\end{thebibliography}
